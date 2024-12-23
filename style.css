@@ -223,7 +223,7 @@ body {
 }
 @media screen and (max-width: 600px) {
   .letter p {
-    font-size: 8px;
+    font-size: 9px;
   }
   .letter > svg.snowman {
     width: 50px;
